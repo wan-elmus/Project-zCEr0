@@ -1,7 +1,5 @@
 
-
-
 ### Procurement Management system based on Blockchain
 
-z - zero
-C - Corruption
+1. z - zero
+2. C - Corruption
